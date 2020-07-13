@@ -1,1 +1,1 @@
-print("mine first jenkins code4")
+print("mine first jenkins")
